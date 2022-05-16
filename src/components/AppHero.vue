@@ -12,6 +12,7 @@ export default {
 
 <style scoped>
 img {
+  width: 100%;
   border: 3px solid black;
 }
 </style>
